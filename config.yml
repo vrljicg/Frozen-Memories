@@ -1,0 +1,66 @@
+baseURL: ""
+languageCode: en-us
+title: Frozen Memories
+theme: PaperMod
+
+
+params:
+  profileMode:
+    enabled: true
+    title: "" # optional default will be site title
+    subtitle: " 📷 Photography | 🎬 Videography | 📑 Digital Marketing"
+    imageUrl: "pfp.jpg"
+    imageTitle: "Profile picture of the blog owner."
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
+
+
+
+  socialIcons:
+    - name: "Instagram"
+      url: "https://instagram.com/vrljicg"
+    - name: "Email"
+      url: "mailto:frozenmemories.creativeblog@gmail.com"
+
+
+
+  
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+  
+  ShowReadingTime: true
+
+  ShowShareButtons: false
+
+  ShowPostNavLinks: false
+
+  ShowToc: true
+
+  comments: false
+
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: ''
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: '/blog/'
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+
+
+
+
+      

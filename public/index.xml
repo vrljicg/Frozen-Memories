@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Frozen Memories</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Frozen Memories</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Nov 2024 21:44:24 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>//localhost:1313/blog/first/</link>
+      <link>http://localhost:1313/blog/first/</link>
       <pubDate>Fri, 08 Nov 2024 21:44:24 +0100</pubDate>
-      <guid>//localhost:1313/blog/first/</guid>
+      <guid>http://localhost:1313/blog/first/</guid>
       <description>&lt;h1 id=&#34;this-is-heading&#34;&gt;This is heading.&lt;/h1&gt;
 &lt;h2 id=&#34;this-is-heading-two&#34;&gt;This is heading two.&lt;/h2&gt;
 &lt;p&gt;10 Tips for better photography compositions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second</title>
-      <link>//localhost:1313/blog/second/</link>
+      <link>http://localhost:1313/blog/second/</link>
       <pubDate>Fri, 08 Nov 2024 21:44:24 +0100</pubDate>
-      <guid>//localhost:1313/blog/second/</guid>
+      <guid>http://localhost:1313/blog/second/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/about.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/about.jpg&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
 &lt;p&gt;Welcome to &lt;strong&gt;Frozen Memories&lt;/strong&gt;! This is a blog where I share my love for &lt;em&gt;photography&lt;/em&gt;, &lt;em&gt;videography&lt;/em&gt; and &lt;em&gt;digital marketing&lt;/em&gt; and help others learn how to improve themselves in those areas.&lt;/p&gt;
 &lt;p&gt;My name is Goran, and I have been passionate about photography for over 6 years. Along the way, my interest in videography and digital marketing grew more and more.&lt;/p&gt;

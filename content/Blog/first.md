@@ -1,15 +1,20 @@
 ---
 date: '2024-11-08T21:44:24+01:00'
-title: 'First'
+title: 'Is Equipment Important In Photography?'
 cover:
     image: camera.jpg
     alt: 'Camera image.'
-    caption: 'This is caption.'
+    caption: 'Example of a camera.'
 tags: ['']
 categories: ['Photography']
 ---
 
-# This is heading.
-## This is heading two.
+## Introduction
 
-10 Tips for better photography compositions.
+This is not an easy question, so whoever you ask, it won't be an easy answer. 
+
+In a nutshell, the anser is **yes & no**. There are different use cases to when the equipment does matter, but also doesn't matter, depending on what you plan to use it for.
+
+
+
+##

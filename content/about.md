@@ -13,7 +13,6 @@ Welcome to **Frozen Memories**! This is a blog where I share my love for *photog
 
 My name is Goran, and I have been passionate about photography for over 6 years. Along the way, my interest in videography and digital marketing grew more and more.
 
-I started this blog to share what I've learned with other people.
 
 ## My journey
 
@@ -23,7 +22,6 @@ Photography and videography allows me to see things in a new ways
 
 As of digital marketing, I just liked how you need to figure things out on your own, figure out new creative ways to get to your audience and help them out with your knowledge. 
 
-I'm excited to share this journey with you.
 
 ## What You'll Find Here
 

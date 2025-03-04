@@ -10,20 +10,12 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is Equipment Important In Photography?</title>
-      <link>http://localhost:1313/blog/first/</link>
+      <link>http://localhost:1313/blog/isequipmentimportant/</link>
       <pubDate>Fri, 08 Nov 2024 21:44:24 +0100</pubDate>
-      <guid>http://localhost:1313/blog/first/</guid>
+      <guid>http://localhost:1313/blog/isequipmentimportant/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is not an easy question, so whoever you ask, it won&amp;rsquo;t be an easy answer.&lt;/p&gt;
-&lt;p&gt;In a nutshell, the anser is &lt;strong&gt;yes &amp;amp; no&lt;/strong&gt;. There are different use cases to when the equipment does matter, but also doesn&amp;rsquo;t matter, depending on what you plan to use it for.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Second</title>
-      <link>http://localhost:1313/blog/second/</link>
-      <pubDate>Fri, 08 Nov 2024 21:44:24 +0100</pubDate>
-      <guid>http://localhost:1313/blog/second/</guid>
-      <description></description>
+&lt;p&gt;The role of equipment in photography has been debated among photographers over many years. Some believe equipment is just an instrument and that photography is based only on the vision, creativity, and technical skills of a photographer. Others argue quality equipment allows for photographers to implement their creative concept more efficiently and consistently.&lt;/p&gt;
+&lt;p&gt;People often think buying expensive gear will instantly make them a better photographer, but that&amp;rsquo;s a common misconception.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
@@ -34,7 +26,8 @@
 &lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
 &lt;p&gt;Welcome to &lt;strong&gt;Frozen Memories&lt;/strong&gt;! This is a blog where I share my love for &lt;em&gt;photography&lt;/em&gt;, &lt;em&gt;videography&lt;/em&gt; and &lt;em&gt;digital marketing&lt;/em&gt; and help others learn how to improve themselves in those areas.&lt;/p&gt;
 &lt;p&gt;My name is Goran, and I have been passionate about photography for over 6 years. Along the way, my interest in videography and digital marketing grew more and more.&lt;/p&gt;
-&lt;p&gt;I started this blog to share what I&amp;rsquo;ve learned with other people.&lt;/p&gt;</description>
+&lt;h2 id=&#34;my-journey&#34;&gt;My journey&lt;/h2&gt;
+&lt;p&gt;I discovered photography a few years ago, and it quickly became one of my biggest passions. I love exploring different styles and techniques and always look for new ways to capture the world.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

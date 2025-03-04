@@ -21,15 +21,17 @@ On the one hand, no one can argue that a very good photographer is capable of pr
 In the end, photography is really a mix of creative thinking, technical skill, and the right camera in hand.
 
 ## The Art of Composition and Technique
-<!-- ![](/about.jpg) -->
 
 Beyond gear, learning and perfecting composition, lighting, and techniques is key to creating images that will *make people stop whatever they're doing and make them think*.
 
 These foundational skills often outweigh the importance of expensive equipment.
 
 Some of those principles that can drastically improve composition in your photos are:
+![A picture of a man sitting on a stone on the left side of the picture with a gridline over the photo showing the example of a "Rule Of Thirds" technique.](/ruleOfThirds.png)
 - **Rule of thirds:** in essence means that you use the intersecting lines of the grid shown on our display and position your subject according to them.
-- **Leading lines:** using leading lines like roads, paths or fences can guide the viewer's eye toward the subject 
+![A picture of a blurred train in movement, showing an example of leading lines technique.](/leadingLines2.png)
+- **Leading lines:** using leading lines like roads, paths or fences can guide the viewer's eye toward the subject.
+![A picture of a ducks framed with grass and leaves.](/framing.jpg)
 - **Framing:** using natural elements like trees, arches or windows to frame your shots can draw attention to the subject. 
 
 **Lighting** is another crucial element that can transform and improve a scene, (but also ruin a scenes) adding depth, mood, and drama to an image. Understanding how to work with natural light or how to use artificial light sources can make a significant difference in the final result.
@@ -79,6 +81,9 @@ Sure, high-quality gear can help, but what really makes you a good photographer 
 Just think about it, even if you give a $3000 camera equipment to a complete beginner, the chances are you will have beginner photographs afterwards that are crooked, underexposed, or even out of focus. 
 
 Meaning, get to know your camera, understand how it works, what each section of settings does, and go out and experiment. Experiment with nature, experiment with friends, buildings, cars... whatever you find interesting. That's when the magic happens.
+
+![A picture of a bridge in München taken with an old digicam.](/digiCamExample.jpg)
+*Example that good photos can be taken even with an old digicam - Samsung ES30*
 
 ## Conclusion
 

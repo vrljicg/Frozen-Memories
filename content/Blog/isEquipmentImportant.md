@@ -3,7 +3,7 @@ date: '2024-11-08T21:44:24+01:00'
 title: 'Is Equipment Important In Photography?'
 cover:
     image: equipmentImportant.jpg
-    alt: 'Image of a camera laying on a bag, alongside with glasses and a magnifier on a sunny day, somewhere in nature.'
+    alt: 'Image of a camera equipment laying on a wooden table.'
     caption: ''
 tags: ['']
 categories: ['Photography']

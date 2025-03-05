@@ -50,5 +50,4 @@ Feel free to reach out if you have any questions or just want to say hello. Letâ
 Happy shooting!
 
 *Goran*
-
 *Frozen Memories*

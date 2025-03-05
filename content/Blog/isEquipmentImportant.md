@@ -5,7 +5,7 @@ description: 'Discover how photography equipment impacts your work and if it’s
 cover:
     image: equipmentImportant.jpg
     alt: 'Image of a camera equipment laying on a wooden table.'
-    caption: ''
+    caption: 'Expensive Photography Gear'
 tags: ['']
 categories: ['Photography']
 ---
@@ -28,11 +28,11 @@ Beyond gear, learning and perfecting composition, lighting, and techniques is ke
 These foundational skills often outweigh the importance of expensive equipment.
 
 Some of those principles that can drastically improve composition in your photos are:
-![A picture of a man sitting on a stone on the left side of the picture with a gridline over the photo showing the example of a "Rule Of Thirds" technique.](/ruleOfThirds.png)
+![A picture of a man sitting on a stone on the left side of the picture with a gridline over the photo showing the example of a "Rule Of Thirds" technique.](/ruleOfThirds.png 'Rule of thirds - Example')
 - **Rule of thirds:** in essence means that you use the intersecting lines of the grid shown on our display and position your subject according to them.
-![A picture of a blurred train in movement, showing an example of leading lines technique.](/leadingLines2.png)
+![A picture of a blurred train in movement, showing an example of leading lines technique.](/leadingLines2.png 'Leading Lines - Example')
 - **Leading lines:** using leading lines like roads, paths or fences can guide the viewer's eye toward the subject.
-![A picture of a ducks framed with grass and leaves.](/framing.jpg)
+![A picture of a ducks framed with grass and leaves.](/framing.jpg 'Framing - Example')
 - **Framing:** using natural elements like trees, arches or windows to frame your shots can draw attention to the subject. 
 
 **Lighting** is another crucial element that can transform and improve a scene, (but also ruin a scenes) adding depth, mood, and drama to an image. Understanding how to work with natural light or how to use artificial light sources can make a significant difference in the final result.
@@ -83,7 +83,7 @@ Just think about it, even if you give a $3000 camera equipment to a complete beg
 
 Meaning, get to know your camera, understand how it works, what each section of settings does, and go out and experiment. Experiment with nature, experiment with friends, buildings, cars... whatever you find interesting. That's when the magic happens.
 
-![A picture of a bridge in München taken with an old digicam.](/digiCamExample.jpg)
+![A picture of a bridge in München taken with an old digicam.](/digiCamExample.jpg 'Example of a photo taken with an old Digicam - Samsung ES30')
 *Example that good photos can be taken even with an old digicam - Samsung ES30*
 
 ## Conclusion

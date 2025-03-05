@@ -5,7 +5,7 @@ params:
   ShowToc: false
 ---
 
-![](/about.jpg)
+![](/about.jpg "Creative picture of the blog author")
 
 # Welcome
 

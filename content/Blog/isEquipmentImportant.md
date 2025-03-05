@@ -1,6 +1,7 @@
 ---
 date: '2024-11-08T21:44:24+01:00'
 title: 'Is Equipment Important In Photography?'
+description: 'Discover how photography equipment impacts your work and if it’s crucial for capturing great images.'
 cover:
     image: equipmentImportant.jpg
     alt: 'Image of a camera equipment laying on a wooden table.'
